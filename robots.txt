@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://liyuyangli485-commits.github.io/global-compliance/sitemap.xml
+Sitemap: https://liyuyangli485-commits.github.io/sitemap.xml
